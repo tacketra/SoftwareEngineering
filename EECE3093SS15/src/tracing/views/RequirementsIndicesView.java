@@ -73,7 +73,6 @@ public class RequirementsIndicesView extends ViewPart implements ISelectionProvi
 				"Testhello",
 				"Hello, Eclipse world");
 
-		
 	}
 	
 	@Override
